@@ -6,7 +6,7 @@
 
 
 ## 📖 Proof Of Concept Documentation
-
+[PDF Document](https://github.com/ChrisMichaelPerezSantiago/funimation/blob/main/Funimation_vulnerabilities.pdf)
 
 
 
